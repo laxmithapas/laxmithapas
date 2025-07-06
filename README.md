@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects<br>👯 I’m looking to collaborate on like open source project etc.<br>🤝 I’m looking for help with back-end optimization.<br>🌱 I’m currently learning Dev ops, server side scripting languages<br>💬 Ask me about hackathon tips, web dev etc.<br>⚡ Fun fact balancing everything with tech
+🔭 I’m currently working on AI/ML projects<br>👯 I’m looking to collaborate on like open source project etc.<br>🤝 I’m looking for help with back-end optimization.<br>🌱 I’m currently learning Dev ops, server side scripting languages<br>💬 Ask me about hackathon tips, web dev etc.
 
 
 ## 🌐 Socials:
