@@ -41,10 +41,6 @@ Welcome to my GitHub profile! I'm a passionate software development  who loves t
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://www.linkedin.com/in/laxmi-thapa-1a5241252/)
-
 ---
 
 ⭐️ From [Laxm Thapa](https://github.com/laxmithapas)
