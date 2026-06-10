@@ -1,4 +1,4 @@
-# 👋 Hello, I'm lax
+# 👋 Hello, I'm LAXMI THAPA 
 
 Welcome to my GitHub profile! I'm a passionate software development  who loves to create innovative solutions and contribute to open-source projects.
 
